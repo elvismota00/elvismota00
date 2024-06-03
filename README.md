@@ -6,7 +6,7 @@
 
 #
 
-<p align="center">Atualmente sou estudante de Gestão da Tecnologia da Informoção na Faculdade de Tecnologia de São Paulo (FATEC - Jundiaí), onde busco aprofundar meus conhecimentos e habilidades no campo da tecnologia. Minha paixão por tecnologia vai além da sala de aula, estou constantemente em busca de novas oportunidades para aprender. Para isso, invisto meu tempo em cursos complementares e treinamentos que me ajudam a expandir minha compreensão e a me manter atualizado com as últimas tendências tecnológicas. Meu foco é Front-end, porém, me interesso também por back-end e minha principal linguagen é JavaScript.
+<p align="center">Atualmente sou estudante de Gestão da Tecnologia da Informação na Faculdade de Tecnologia de São Paulo (FATEC - Jundiaí), onde busco aprofundar meus conhecimentos e habilidades no campo da tecnologia. Minha paixão por tecnologia vai além da sala de aula, estou constantemente em busca de novas oportunidades para aprender. Para isso, invisto meu tempo em cursos complementares e treinamentos que me ajudam a expandir minha compreensão e a me manter atualizado com as últimas tendências tecnológicas. Meu foco é Front-end, porém, me interesso também por back-end e minha principal linguagem é JavaScript.
 
 #
 
