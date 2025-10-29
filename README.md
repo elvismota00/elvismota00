@@ -55,8 +55,8 @@ Sou movido pela curiosidade e pelo compromisso de transformar conhecimento em re
   
   <br>
   <a href="https://github.com/elvismota00">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=elvismota00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvismota00&langs_count=7&theme=dark"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=elvismota00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvismota00&langs_count=7&theme=dark"/>
 </div>
 
 #
