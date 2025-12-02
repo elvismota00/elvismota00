@@ -8,9 +8,9 @@
 
 <p align="center">Graduado em Gestão da Tecnologia da Informação pela Faculdade de Tecnologia de São Paulo - FATEC e tenho como objetivo contínuo o aprimoramento das minhas competências técnicas e estratégicas na área de TI. Minha trajetória acadêmica e profissional é pautada pela busca constante de atualização, acompanhando tendências e inovações do setor por meio de cursos de especialização, treinamentos e estudos independentes.
 
-Minha principal ênfase está no desenvolvimento Front-end, mas também possuo interesse em Back-end, o que me permite buscar compreender o ciclo completo de desenvolvimento de aplicações e contribuir de forma mais ampla em projetos de tecnologia.
+<p align="center">Minha principal ênfase está no desenvolvimento Front-end, mas também possuo interesse em Back-end, o que me permite buscar compreender o ciclo completo de desenvolvimento de aplicações e contribuir de forma mais ampla em projetos de tecnologia.
 
-Sou movido pela curiosidade e pelo compromisso de transformar conhecimento em resultados práticos, aplicando conceitos de gestão, análise e desenvolvimento para gerar soluções eficientes, escaláveis e alinhadas às necessidades do negócio.
+<p align="center">Sou movido pela curiosidade e pelo compromisso de transformar conhecimento em resultados práticos, aplicando conceitos de gestão, análise e desenvolvimento para gerar soluções eficientes, escaláveis e alinhadas às necessidades do negócio.
 
 #
 
